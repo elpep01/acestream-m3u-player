@@ -1,0 +1,15 @@
+{
+  "name": "AceStream M3U Player",
+  "short_name": "AceM3U",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/512/vlc.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
